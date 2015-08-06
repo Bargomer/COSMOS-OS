@@ -1,0 +1,21 @@
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\CS 431 Assignment 2.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\CS 431 Assignment 2.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Core.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Debug.Kernel.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Hardware.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.System.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Common.Extensions.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Core.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Hardware.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.System.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Debug.Kernel.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Common.Extensions.pdb
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\obj\Release\CS 431 Assignment 2.csprojResolveAssemblyReference.cache
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\obj\Release\CS 431 Assignment 2.dll
+c:\users\ruthie\documents\visual studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\obj\Release\CS 431 Assignment 2.pdb
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Core.Plugs.dll
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Debug.Kernel.Plugs.dll
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.System.Plugs.System.dll
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Core.Plugs.pdb
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.Debug.Kernel.Plugs.pdb
+C:\Users\Ruthie\Documents\Visual Studio 2013\Projects\CS 431 Assignment 2\CS 431 Assignment 2\bin\Release\Cosmos.System.Plugs.System.pdb

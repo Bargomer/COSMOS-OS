@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{292570DA-9345-4B3A-A74F-B1ADAE67393D}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>GLNFSLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cosmos.Hardware" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="a.cs" />
+    <Compile Include="b.cs" />
+    <Compile Include="c.cs" />
+    <Compile Include="d.cs" />
+    <Compile Include="DotfuscatorAttribute.cs" />
+    <Compile Include="GruntyOS.Crypto\Crc32.cs" />
+    <Compile Include="GruntyOS.Crypto\Hash.cs" />
+    <Compile Include="GruntyOS.Crypto\HashAlgorithm.cs" />
+    <Compile Include="GruntyOS.HAL\ATA.cs" />
+    <Compile Include="GruntyOS.HAL\DevFS.cs" />
+    <Compile Include="GruntyOS.HAL\Devices.cs" />
+    <Compile Include="GruntyOS.HAL\FileSystem.cs" />
+    <Compile Include="GruntyOS.HAL\fsEntry.cs" />
+    <Compile Include="GruntyOS.HAL\GLNFS.cs" />
+    <Compile Include="GruntyOS.HAL\Memory.cs" />
+    <Compile Include="GruntyOS.HAL\MountPoint.cs" />
+    <Compile Include="GruntyOS.HAL\RootFilesystem.cs" />
+    <Compile Include="GruntyOS.HAL\StorageDevice.cs" />
+    <Compile Include="GruntyOS.HAL\VirtualFile.cs" />
+    <Compile Include="GruntyOS.IO\BinaryReader.cs" />
+    <Compile Include="GruntyOS.IO\BinaryWriter.cs" />
+    <Compile Include="GruntyOS.IO\consoleOutStream.cs" />
+    <Compile Include="GruntyOS.IO\DeviceStream.cs" />
+    <Compile Include="GruntyOS.IO\File.cs" />
+    <Compile Include="GruntyOS.IO\FileStream.cs" />
+    <Compile Include="GruntyOS.IO\ioStream.cs" />
+    <Compile Include="GruntyOS.IO\MemoryStream.cs" />
+    <Compile Include="GruntyOS.IO\TextReader.cs" />
+    <Compile Include="GruntyOS.Lang\Scanner.cs" />
+    <Compile Include="GruntyOS.String\Util.cs" />
+    <Compile Include="GruntyOS\Conversions.cs" />
+    <Compile Include="GruntyOS\CurrentUser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
